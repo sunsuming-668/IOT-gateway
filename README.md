@@ -1,4 +1,4 @@
-# STM32+Linux IoT Gateway
+﻿# STM32+Linux IoT Gateway
 
 基于 STM32 + ESP8266 + Linux 的工业物联网网关，实现从传感器采集到云端存储的完整数据链路。
 
